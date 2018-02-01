@@ -1,11 +1,11 @@
 # vef2018verk2
-1. MVC (3%)
+#### 1. MVC (3%)
 
-#### a. Útskýrðu MVC í bakendavefþróun (lágmark 50 orð)
+##### a. Útskýrðu MVC í bakendavefþróun (lágmark 50 orð)
 
-#### b. Hvað er AJAX og HTML5 WebSockets? (lágmark 25 orð)
+##### b. Hvað er AJAX og HTML5 WebSockets? (lágmark 25 orð)
 
-#### c. Útskýrðu MV* í framendavefþróun, SPA og client-side MVC (lágmark 50 orð)
+##### c. Útskýrðu MV* í framendavefþróun, SPA og client-side MVC (lágmark 50 orð)
 
-2. Flask Structure (7%)
+#### 2. Flask Structure (7%)
 
