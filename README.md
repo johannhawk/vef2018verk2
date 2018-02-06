@@ -18,8 +18,9 @@ AJAX var búið til óvart og var svo notuð til að gera hluti sem eru utan upp
 AJAX er miklu eldra tækni miðað við WebSockets og hefur miklu meiri stuðning og ytri tól til að nota með AJAX. 
 
 ##### c. Útskýrðu MV* í framendavefþróun, SPA og client-side MVC (lágmark 50 orð)
-
-
+MV* getur verið MVC(model-view-controller), MVP(model-view-presenter) og MVVM(model-view-view-model). Þeir öll haga eins með hvernig þeir skipta í sundur forrit vegna þess þeir eru öll afleidd frá MVC.
+SPA stendur fyrir single-page application, það er vef forrit sem virkilega endurskrifar vefsíðuna í staðin fyrir að ná nýjar síður sem létur vefsíðuna haga meira eins og tölvuforrit fyrir notandan.
+Client side MVC þýðir að það bara bara byggt á notanda-hliðina að vef forriti.
 
 #### 2. Flask Structure (7%)
 
