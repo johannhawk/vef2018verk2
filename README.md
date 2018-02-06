@@ -9,9 +9,17 @@ MVC hönnunar mynstrið nota þessi aðskilda aðferð til að endurnýta kóða
 Þessi samsíða þróun þýðir að framenda forritarar og bakenda forritarar geta unnið á sínu eigin megin að forritinu án þess að þurfa eða trufla hvor aðra.
 
 ##### b. Hvað er AJAX og HTML5 WebSockets? (lágmark 25 orð)
+Websockets vonar til að koma með nær-tefjalaust samskipti á netinu með tvístefnu tengingar yfir eina TCP tengingu.
+Flest vafrar eins og firefox styðja websockets vegna það hefur fengið mikla vinsæld eftir 2011.
+Þessi tefjalaust tvístefnt samskipti leyfir forritara að búa til forrit sem gefa upplýsingar til baka vegna tengingin er nú viðvarandi.
 
+AJAX var búið til óvart og var svo notuð til að gera hluti sem eru utan upprunalega tilgangin.
+Það gefur vafrar hæfileikan til að uppfæra upplýsingar án þess að endurhlaða alla vefsíðunna.
+AJAX er miklu eldra tækni miðað við WebSockets og hefur miklu meiri stuðning og ytri tól til að nota með AJAX. 
 
 ##### c. Útskýrðu MV* í framendavefþróun, SPA og client-side MVC (lágmark 50 orð)
+
+
 
 #### 2. Flask Structure (7%)
 
