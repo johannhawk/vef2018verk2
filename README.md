@@ -3,8 +3,13 @@
 #### 1. MVC (3%)
 
 ##### a. Útskýrðu MVC í bakendavefþróun (lágmark 50 orð)
+Hugbúnaða arkitekta mynstur oft notuð til að þróa notanda tengi sem skiptir forrit í þrjá parta. Þetta er gert til að skipta innri framsetninguna af upplýsingun frá leiðinnar upplýsingar eru sýndir og samþykkt til notandan.
+MVC hönnunar mynstrið nota þessi aðskilda aðferð til að endurnýta kóða betur og styðja samsíða þróun.
+
+Þessi samsíða þróun þýðir að framenda forritarar og bakenda forritarar geta unnið á sínu eigin megin að forritinu án þess að þurfa að trufla hvor aðra.
 
 ##### b. Hvað er AJAX og HTML5 WebSockets? (lágmark 25 orð)
+
 
 ##### c. Útskýrðu MV* í framendavefþróun, SPA og client-side MVC (lágmark 50 orð)
 
