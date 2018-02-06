@@ -47,3 +47,18 @@ smávegis CSS fyrir vefútlit.
 Skoðaðu mismunandi skipulag (e. structure). Notaðu Package, klasa (e classes) eftir þörfum
 og skipulagðu vefinn og skrárnar í samræmi við MVC til að leysa verkefnið. Skoðaðu
 BluePrint fyrir routing (ekki skylda í þessu verkefni)*
+
+
+Sjá td. eftirfarandi tengla:
+ -Organizing your project: http://exploreflask.com/en/latest/organizing.html
+ -Structure & configuration: https://damyanon.net/post/flask-series-structure/
+ 
+ 
+*Ef nemandi vill vinna efnislega með annað efni, tungumál og framework þá þarf samþykki
+kennara fyrir því.
+
+
+Námsmat og skil:
+Gefið er fullt fyrir þá liði sem eru með fullnægjandi virkni eða svar fullnægjandi, hálft fyrir
+þá sem eru ábótavant eða svar ábótavant. Skilaðu á Innu GitHub slóð á kóðann ásamt í
+readme skrá vefslóð á keyrandi veflausn (Digital Ocean).
