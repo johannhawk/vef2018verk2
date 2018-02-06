@@ -49,6 +49,8 @@ og skipulagðu vefinn og skrárnar í samræmi við MVC til að leysa verkefnið
 BluePrint fyrir routing (ekki skylda í þessu verkefni)*
 
 
+
+
 Sjá td. eftirfarandi tengla:
  -Organizing your project: http://exploreflask.com/en/latest/organizing.html
  -Structure & configuration: https://damyanon.net/post/flask-series-structure/
