@@ -1,4 +1,5 @@
 # vef2018verk2
+## skila 11.feb
 #### 1. MVC (3%)
 
 ##### a. Útskýrðu MVC í bakendavefþróun (lágmark 50 orð)
