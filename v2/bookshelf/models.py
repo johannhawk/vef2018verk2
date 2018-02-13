@@ -17,6 +17,10 @@ booklist = [
     Book("Fool's Errand"), Book("Data and goliath"), Book("Mistur")
 ]
 
+class year:
+    def __init__(self, name):
+        self.name = name
+
 yearcount = [
     Book("2014"), Book("2016"), Book("2017")
 ]

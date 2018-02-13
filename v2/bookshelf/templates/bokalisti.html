@@ -11,6 +11,11 @@
   <div>
       <a href="./book/{{ book.name }}">{{ book.name }}</a>
   </div>
+ {% endfor %}
+ {% for book in yearcount %}
+  <div>
+    {{ book.name }}
+  </div>
   {% endfor %}
 
 </body>
