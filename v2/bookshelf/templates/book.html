@@ -8,11 +8,7 @@
     <link href="/static/css/style.css" rel="stylesheet">
   </head>
   <body>
-  {% for book in yearcount %}
-  <div>
-    {{ book.name }}
-  </div>
-  {% endfor %}
+
     <div>
         {% if matched %}
           <h1>{{ matched }}</h1>
@@ -20,6 +16,20 @@
           <h1>Sorry!</h1>
         {% endif %}
     </div>
+    <div><a href="http://127.0.0.1:5000/">Til baka</a></div>
+    <hr>
+    {% for book in booklist %}
+    {% if book.name == matched %}
+        {{ yearcount[loop.index0].name }}
+        {{ comp[loop.index0].name }}
+    {% endif %}<!--nota endif og endfor til að enda if og for lykkjur-->
+    {% else %}
+    {% endfor %}
+  <div>
+
+
+  </div>
+
     <script src="/static/js/app.js"></script>
   </body>
 </html>

@@ -14,7 +14,7 @@ class Book:
 
 # data
 booklist = [
-    Book("Fool's Errand"), Book("Data and goliath"), Book("Mistur")
+    Book("Fools Errand"), Book("Data and goliath"), Book("Mistur")
 ]
 
 class year:

@@ -10,10 +10,8 @@ from flask import render_template
 @app.route('/index')
 def index():
     booklist = model.booklist   # Þarf að útfæra betur. Gagnavinnsla og hjúpun á að vera í model, nota getbooklist aðferð frekar.
-    yearcount = model.yearcount
-    comp = model.comp
     # View - the template to be completed / look and feel of the page
-    return render_template('bokalisti.html', comp=comp, booklist=booklist, yearcount=yearcount)
+    return render_template('bokalisti.html', booklist=booklist)
 
 
 # next level - isbn letter code is a specific book
@@ -26,4 +24,7 @@ def book(isbn=None):
     # matched = model.book.getbook(isbn)
     # Samanburður (filter, regex osfrv.) á að vera í model.
     matched = isbn # Þarf að útfæra betur
-    return render_template('book.html', matched=matched)
+    booklist = model.booklist
+    yearcount = model.yearcount
+    comp = model.comp
+    return render_template('book.html', comp=comp, matched=matched, yearcount=yearcount, booklist=booklist)
